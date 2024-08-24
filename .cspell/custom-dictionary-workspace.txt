@@ -1,0 +1,28 @@
+# Custom Dictionary Words
+
+## british
+
+industrialised
+formalised
+artefacts
+standardised
+organisation
+componentisation
+commoditisation
+emphasise
+organise
+organisations
+industrialisation
+categorised
+categorising
+
+## names
+
+Thwaites
+Salaman
+Gaugler
+Valen
+
+## acronyms
+
+ITIL
